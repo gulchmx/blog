@@ -1,2 +1,2 @@
-# gulch.mx Blog
+# gulch.mx Blog posts
 gulch.mx Blog posts
